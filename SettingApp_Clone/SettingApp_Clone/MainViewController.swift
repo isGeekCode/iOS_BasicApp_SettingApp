@@ -78,5 +78,7 @@ class MainViewController: UIViewController {
     }
   }
 
+  // TODO: SearchBar SearchContainerView padding조절하기
+  // searchBar의 leading을 제어할 수 있도록 처리할 것
 }
 
